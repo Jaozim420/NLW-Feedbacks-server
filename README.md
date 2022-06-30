@@ -7,3 +7,8 @@ Back-end do NLW-Feedbacks-web.
 - Prisma
 - NodeJS
 - TypeScript
+
+# Installing:
+```bash
+$ git clone git@github.com:Jaozim420/NLW-Feedbacks-server.git
+```
