@@ -12,3 +12,10 @@ Back-end do NLW-Feedbacks-web.
 ```bash
 $ git clone git@github.com:Jaozim420/NLW-Feedbacks-server.git
 ```
+
+```bash
+# Install Dependencies
+$ yarn
+# Run Aplication
+$ yarn run dev
+```
